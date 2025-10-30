@@ -43,7 +43,7 @@
 ## 📸 Prévia da Interface
 
 <p align="center">
-  <img src="./screenshot_EspiralOtimizador.jpg" alt="EspiralOtimizador interface screenshot" width="900"/>
+  <img src="./EspiralOtimizador.jpg" alt="EspiralOtimizador interface screenshot" width="900"/>
 </p>
 
 ---
